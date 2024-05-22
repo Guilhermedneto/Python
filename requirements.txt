@@ -1,0 +1,5 @@
+pyzbar
+pdf2image
+Pillow
+openpyxl
+streamlit
