@@ -6,3 +6,4 @@ from pyzbar.pyzbar import decode
 from pdf2image import convert_from_path
 from openpyxl import Workbook
 import streamlit as st
+
