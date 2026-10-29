@@ -1,12 +1,10 @@
-# Leitor de Código de Barras de Boletos
+# Estudo — Python
 
-Este projeto é uma aplicação Streamlit que lê códigos de barras de boletos a partir de arquivos PDF, extrai informações como valor, data de vencimento e linha digitável, e salva os dados em uma planilha Excel.
+Exercicio de geracao de codigo de barras (`barcode-str.py`), de maio de 2024.
 
-## Requisitos
+```bash
+pip install -r requirements.txt
+python barcode-str.py
+```
 
-- Python 3.7 ou superior
-- poppler-utils (para suportar pdf2image)
-
-## Instalação
-
-Clone o repositório e navegue até o diretório do projeto:
+Repositorio de estudo, sem aplicacao.
